@@ -23,8 +23,7 @@ p{
     width: 360px;
     background-color: #ffff;
     position: fixed;
- 
-  
+    box-shadow: rgb(0 0 0 / 10%) 0px 12px 24px 0px;
     border-radius: 4%;
     padding: 0!important;
     margin-bottom: 96px;
@@ -153,6 +152,7 @@ p.user-task {
     height: 68px;
     width: 68px;
     border-radius: 100%;
+    box-shadow: rgb(0 0 0 / 15%) 0px 3px 12px;
     background-color: white;
     position: fixed;
     bottom: 0px;
