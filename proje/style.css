@@ -1,6 +1,5 @@
 body{
    
-    background-image: url("./backgraund.jpg");
     padding: 0;
     margin: 0;
     
@@ -170,9 +169,7 @@ p.user-task {
     font-size: 32px;
     
 }
-.chat-button:hover{
-background-color: #f2f2f2;
-}
+
 .button-imlec{
     position: absolute;
     display: list-item;
